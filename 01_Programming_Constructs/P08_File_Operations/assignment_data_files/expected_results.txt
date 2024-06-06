@@ -1,0 +1,244 @@
+<Abyssal Sea Cucumber>:10
+Australia;Brazil;Denmark;India;Italy;Malaysia;Pakistan;People's Republic of China;South Korea;United Kingdom;
+<Amblypygi>:12
+Brazil;Canada;India;Indonesia;Italy;Malaysia;Netherlands;Pakistan;People's Republic of China;Spain;United Kingdom;United States;
+<Amphibean>:8
+Australia;Indonesia;Italy;Malaysia;Pakistan;People's Republic of China;Romania;United States;
+<Anglerfish>:10
+Denmark;Indonesia;Italy;Japan;Mexico;Pakistan;Romania;South Korea;United Kingdom;United States;
+<Ant>:13
+Australia;Brazil;Canada;Italy;Japan;Mexico;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;Spain;United Kingdom;
+<Ape>:9
+Australia;Brazil;Italy;Netherlands;Philippines;South Korea;Spain;United Kingdom;United States;
+<Arachnid>:8
+Denmark;Italy;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;United Kingdom;
+<Arthropod>:6
+Brazil;Denmark;Pakistan;People's Republic of China;Philippines;Romania;
+<Aye-Aye>:9
+Australia;Brazil;Canada;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;United States;
+<Baboon>:7
+Italy;Mexico;Pakistan;People's Republic of China;Spain;United Kingdom;United States;
+<Badger>:8
+Indonesia;Japan;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;United States;
+<Barreleye>:8
+Australia;Denmark;India;Mexico;Pakistan;Philippines;Romania;United Kingdom;
+<Bat>:8
+Brazil;Italy;Malaysia;Pakistan;Philippines;Romania;Spain;United Kingdom;
+<Bear>:10
+Australia;Brazil;Canada;Denmark;Italy;Netherlands;Pakistan;People's Republic of China;South Korea;Spain;
+<Bird>:8
+Canada;India;Indonesia;Mexico;Pakistan;People's Republic of China;Philippines;Spain;
+<Black-Footed Ferret>:10
+Denmark;India;Indonesia;Italy;Malaysia;Pakistan;People's Republic of China;Philippines;United Kingdom;United States;
+<Boa Constrictor>:8
+Australia;Brazil;Canada;Italy;Japan;People's Republic of China;Philippines;Romania;
+<Butterfly>:3
+Netherlands;Pakistan;People's Republic of China;
+<Camel>:10
+Australia;Canada;Indonesia;Italy;Netherlands;People's Republic of China;Romania;South Korea;Spain;United Kingdom;
+<Cassowary>:9
+Brazil;Canada;Japan;Malaysia;Pakistan;People's Republic of China;Philippines;United Kingdom;United States;
+<Cat>:10
+Brazil;Italy;Japan;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;South Korea;United Kingdom;
+<Centipede>:8
+Australia;Brazil;Canada;Indonesia;Italy;Pakistan;People's Republic of China;United Kingdom;
+<Chameleon>:8
+Australia;India;Italy;Pakistan;People's Republic of China;Romania;South Korea;United Kingdom;
+<Chimpanzee>:8
+Australia;Italy;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;United States;
+<Cobra>:11
+Brazil;Canada;India;Indonesia;Italy;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;South Korea;
+<Cockroach>:10
+Australia;Denmark;India;Italy;Japan;Pakistan;People's Republic of China;Romania;United Kingdom;United States;
+<Coelacanth>:8
+Italy;Japan;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;
+<Coral>:9
+Brazil;Canada;Italy;Malaysia;Netherlands;Philippines;Romania;South Korea;United Kingdom;
+<Crab>:6
+Italy;Netherlands;Romania;South Korea;Spain;United Kingdom;
+<Crocodile>:8
+Brazil;India;Pakistan;People's Republic of China;Philippines;South Korea;United Kingdom;United States;
+<Crustacean>:6
+Brazil;Canada;Italy;People's Republic of China;Spain;United Kingdom;
+<Deep Sea Hatchetfish>:10
+Brazil;India;Indonesia;Italy;Japan;Netherlands;Pakistan;Philippines;Romania;United Kingdom;
+<Deer>:10
+Australia;Brazil;India;Indonesia;Italy;Malaysia;Pakistan;People's Republic of China;Spain;United Kingdom;
+<Dog>:5
+Australia;Brazil;Indonesia;Malaysia;People's Republic of China;
+<Dolphin>:8
+Australia;Denmark;Italy;Mexico;People's Republic of China;Romania;South Korea;United Kingdom;
+<Dormouse>:9
+Australia;Canada;Italy;Malaysia;Mexico;Pakistan;People's Republic of China;Romania;United Kingdom;
+<Dragonfly>:9
+Australia;Brazil;India;Italy;Mexico;Netherlands;Romania;Spain;United Kingdom;
+<Eagle>:8
+Canada;Mexico;Netherlands;Pakistan;Philippines;Romania;South Korea;Spain;
+<Eel>:8
+Australia;Indonesia;Netherlands;Pakistan;People's Republic of China;Philippines;United Kingdom;United States;
+<Elephant>:6
+Canada;Italy;Mexico;People's Republic of China;Romania;South Korea;
+<Elk Botfly>:7
+Australia;Netherlands;People's Republic of China;Philippines;Romania;South Korea;United Kingdom;
+<Falcon>:5
+Indonesia;Netherlands;Pakistan;Philippines;Spain;
+<Ferret>:5
+Malaysia;People's Republic of China;Philippines;Romania;United Kingdom;
+<Fish>:8
+Australia;Brazil;Canada;Indonesia;Mexico;People's Republic of China;South Korea;United Kingdom;
+<Fly>:10
+Australia;Brazil;Italy;Mexico;Pakistan;People's Republic of China;Romania;South Korea;United Kingdom;United States;
+<Fox>:7
+Canada;Denmark;India;Mexico;Pakistan;Romania;South Korea;
+<Frog>:9
+Brazil;India;Italy;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;
+<Gharial>:7
+Brazil;Canada;Denmark;People's Republic of China;South Korea;Spain;United Kingdom;
+<Giraffe>:12
+Australia;Brazil;Denmark;India;Italy;Mexico;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;
+<Giraffe Weevil>:5
+Australia;Brazil;Netherlands;Pakistan;United States;
+<Goblin Shark>:9
+Australia;Brazil;Canada;Denmark;Italy;Pakistan;Romania;United Kingdom;United States;
+<Granrojo Jellyfish>:10
+Australia;Brazil;Canada;India;Indonesia;Italy;Mexico;South Korea;Spain;United States;
+<Gull>:8
+Australia;Canada;Italy;Japan;Netherlands;Pakistan;Romania;Spain;
+<Harris' Hawk>:7
+Brazil;Italy;Mexico;Netherlands;Pakistan;People's Republic of China;South Korea;
+<Hatchetfish>:7
+Australia;Italy;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;
+<Hellbender>:9
+Australia;Brazil;India;Indonesia;Malaysia;Pakistan;People's Republic of China;Romania;Spain;
+<Hippopotamus>:5
+Brazil;India;Italy;Malaysia;Netherlands;
+<Honey Badger>:9
+Australia;Brazil;Canada;Indonesia;Italy;Japan;Pakistan;Romania;South Korea;
+<Honey Bee>:7
+Brazil;Canada;Italy;Mexico;Pakistan;People's Republic of China;United Kingdom;
+<Horse>:11
+Australia;Brazil;Denmark;Italy;Malaysia;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;United States;
+<Hummingbird>:6
+Brazil;Netherlands;Pakistan;Romania;United Kingdom;United States;
+<Hyena>:9
+Australia;Canada;Denmark;India;Italy;Netherlands;Pakistan;People's Republic of China;United States;
+<Ibis>:5
+Australia;India;Pakistan;Philippines;Romania;
+<Insect>:11
+Australia;Brazil;Canada;Italy;People's Republic of China;Philippines;Romania;South Korea;Spain;United Kingdom;United States;
+<Invertebrate>:9
+Australia;India;Italy;Mexico;Netherlands;People's Republic of China;Philippines;Romania;United Kingdom;
+<Jellyfish>:10
+Australia;Indonesia;Malaysia;Mexico;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;United Kingdom;
+<Kestrel>:7
+Australia;Brazil;Indonesia;Italy;Malaysia;Philippines;Romania;
+<Lion>:9
+Australia;Brazil;India;Italy;Netherlands;Pakistan;People's Republic of China;Philippines;United States;
+<Lobster>:7
+Australia;Denmark;Italy;Netherlands;Pakistan;People's Republic of China;Philippines;
+<Mammal>:8
+Canada;Italy;Pakistan;People's Republic of China;Philippines;Romania;South Korea;Spain;
+<Manta Ray>:7
+Canada;Denmark;Italy;Malaysia;People's Republic of China;Romania;South Korea;
+<Marabou Stork>:10
+Canada;Italy;Malaysia;Netherlands;Pakistan;People's Republic of China;Philippines;Romania;South Korea;United Kingdom;
+<Marsupial>:9
+Australia;India;Indonesia;Italy;Pakistan;People's Republic of China;Romania;Spain;United Kingdom;
+<Mata Mata>:7
+Denmark;Indonesia;Italy;Japan;Netherlands;Pakistan;Spain;
+<Matusuba Koi>:8
+Canada;Denmark;Indonesia;Netherlands;Pakistan;People's Republic of China;Romania;United Kingdom;
+<Mink>:5
+Australia;Canada;Italy;Philippines;United States;
+<Mollusk>:7
+Brazil;Italy;Japan;Pakistan;People's Republic of China;Romania;South Korea;
+<Monkey>:7
+Denmark;Japan;Malaysia;Pakistan;Philippines;Romania;South Korea;
+<Monotreme>:6
+Australia;Brazil;Italy;Pakistan;Philippines;Romania;
+<Mouse>:10
+Australia;Indonesia;Italy;Netherlands;Pakistan;People's Republic of China;South Korea;Spain;United Kingdom;United States;
+<Northern Bald Ibis>:5
+Australia;Italy;Japan;People's Republic of China;Philippines;
+<Octopus>:13
+Brazil;India;Italy;Japan;Mexico;Pakistan;People's Republic of China;Philippines;Romania;South Korea;Spain;United Kingdom;United States;
+<Ostrich>:9
+Australia;Brazil;Italy;Japan;Malaysia;Netherlands;Pakistan;Romania;United Kingdom;
+<Otter>:7
+Australia;Brazil;Italy;Japan;Netherlands;People's Republic of China;South Korea;
+<Owl>:4
+Italy;Pakistan;People's Republic of China;United States;
+<Parrot>:6
+Denmark;Indonesia;Japan;Romania;Spain;United States;
+<Peacock>:10
+Australia;Denmark;Indonesia;Japan;Mexico;Pakistan;People's Republic of China;Romania;United Kingdom;United States;
+<Pelican>:11
+Australia;Brazil;Canada;Denmark;Indonesia;Italy;Malaysia;Mexico;People's Republic of China;United Kingdom;United States;
+<Penguin>:5
+Brazil;Italy;South Korea;United Kingdom;United States;
+<Pig>:6
+Australia;India;Malaysia;Philippines;Spain;United States;
+<Platypus>:6
+Australia;Brazil;Italy;Japan;People's Republic of China;South Korea;
+<Praying Mantis>:7
+Canada;Italy;Japan;Mexico;Pakistan;People's Republic of China;South Korea;
+<Promachoteuthis Sulcus>:5
+Brazil;Netherlands;South Korea;United Kingdom;United States;
+<Python>:7
+Australia;Japan;Netherlands;Pakistan;People's Republic of China;South Korea;United Kingdom;
+<Rabbit>:10
+Australia;Brazil;Canada;Denmark;Italy;Pakistan;People's Republic of China;Philippines;South Korea;Spain;
+<Raccoon>:9
+Australia;Canada;India;Italy;Pakistan;People's Republic of China;Philippines;Romania;United States;
+<Rat>:8
+Canada;Italy;Japan;Pakistan;People's Republic of China;Romania;South Korea;Spain;
+<Reptile>:5
+Brazil;India;Italy;Philippines;United Kingdom;
+<Rhinoceros>:9
+Australia;Italy;Mexico;Pakistan;Philippines;Romania;South Korea;United Kingdom;United States;
+<Scorpion>:6
+Japan;Mexico;Pakistan;People's Republic of China;Romania;United States;
+<Sea Cucumber>:9
+Australia;Denmark;Italy;Japan;Romania;South Korea;Spain;United Kingdom;United States;
+<Shark>:9
+Denmark;Italy;Mexico;Pakistan;People's Republic of China;South Korea;Spain;United Kingdom;United States;
+<Sheep>:13
+Brazil;Canada;India;Italy;Japan;Malaysia;Mexico;Pakistan;People's Republic of China;Philippines;South Korea;United Kingdom;United States;
+<Skunk>:10
+Brazil;India;Indonesia;Italy;Japan;Pakistan;Philippines;Romania;Spain;United Kingdom;
+<Snake>:13
+Australia;Brazil;Denmark;Indonesia;Italy;Japan;Malaysia;Pakistan;People's Republic of China;Romania;South Korea;Spain;United Kingdom;
+<Sparrow>:8
+Brazil;Denmark;India;Indonesia;Italy;Netherlands;People's Republic of China;South Korea;
+<Spider>:10
+Brazil;Canada;India;Italy;Malaysia;Mexico;Pakistan;People's Republic of China;Philippines;Romania;
+<Squid>:8
+Brazil;Canada;Italy;Netherlands;People's Republic of China;Philippines;Romania;United Kingdom;
+<Squirrel>:7
+Brazil;Indonesia;Italy;Malaysia;Mexico;Pakistan;People's Republic of China;
+<Star Nosed Mole>:7
+Brazil;Canada;Indonesia;Japan;Mexico;Pakistan;Romania;
+<Theridion Grallatora>:7
+Brazil;Canada;Denmark;Italy;Malaysia;Mexico;South Korea;
+<Tiger>:9
+Canada;Italy;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;Spain;United Kingdom;
+<Turtle>:6
+Australia;Pakistan;People's Republic of China;Philippines;South Korea;United States;
+<Vampire Bat>:9
+Brazil;Canada;Italy;Netherlands;People's Republic of China;Philippines;Romania;Spain;United States;
+<Vertebrate>:6
+Australia;Brazil;Denmark;Pakistan;Romania;United States;
+<Wallaby>:9
+Denmark;Italy;Japan;Pakistan;People's Republic of China;Philippines;Romania;South Korea;United States;
+<Wasp>:10
+Brazil;Canada;Italy;Japan;Malaysia;Mexico;Netherlands;Pakistan;People's Republic of China;Spain;
+<Weasel>:9
+Canada;Italy;Malaysia;Netherlands;Pakistan;Philippines;Romania;Spain;United States;
+<Whale>:10
+Australia;Denmark;Mexico;Netherlands;Pakistan;People's Republic of China;Romania;South Korea;United Kingdom;United States;
+<Wolf>:9
+Australia;Brazil;Canada;India;Italy;Netherlands;People's Republic of China;United Kingdom;United States;
+<Wolf-trap Anglerfish>:11
+Canada;Denmark;India;Italy;Malaysia;People's Republic of China;Philippines;Romania;South Korea;Spain;United Kingdom;
+<Worm>:8
+Canada;Japan;Malaysia;Mexico;Netherlands;Pakistan;People's Republic of China;Spain;
