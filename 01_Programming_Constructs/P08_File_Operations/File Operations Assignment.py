@@ -71,3 +71,20 @@ with open(data_file_name, "w") as f:
 
 # for more concise: use sets to prevent duplicate while adding country
 # also can sort dictionary better
+
+def is_same(file1, file2):
+    file1_path = os.path.join(
+        basedir, file1)
+    file2_path = os.path.join(
+        basedir, file2)
+    
+    with open(file1_path, 'r') as f1, open(file2_path, 'r') as f2:
+        for line1, line2 in zip(f1, f2):
+            if line1 != line2:
+                return False
+    return True
+
+if is_same('assignment_data_files/results.txt', 'assignment_data_files/expected_results.txt'):
+    print("The files are identical!")
+else:
+    print("The files are different :((")
