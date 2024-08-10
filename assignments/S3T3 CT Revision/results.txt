@@ -1,0 +1,40 @@
+<1984>:5
+Central Library;Greenfield Community Library;Lakeview Library;Oakwood Library;Sunnyside Public Library;
+<Animal Farm>:4
+Downtown Branch;Greenfield Community Library;Riverside Branch;Sunnyside Public Library;
+<Brave New World>:5
+Central Library;Harbor Heights Library;Lakeview Library;Sunnyside Public Library;Westside Book Nook;
+<Fahrenheit 451>:4
+Downtown Branch;Oakwood Library;Sunnyside Public Library;Westside Book Nook;
+<Harry Potter and the Sorcerer's Stone>:5
+Harbor Heights Library;Hilltop Book Haven;Meadowbrook Reading Center;Pinecrest Library;Riverside Branch;
+<Moby-Dick>:4
+Downtown Branch;Greenfield Community Library;Harbor Heights Library;Pinecrest Library;
+<One Hundred Years of Solitude>:2
+Pinecrest Library;Westside Book Nook;
+<Pride and Prejudice>:6
+Central Library;Downtown Branch;Greenfield Community Library;Hilltop Book Haven;Oakwood Library;Pinecrest Library;
+<The Alchemist>:4
+Downtown Branch;Greenfield Community Library;Oakwood Library;Sunnyside Public Library;
+<The Catcher in the Rye>:6
+Central Library;Downtown Branch;Greenfield Community Library;Hilltop Book Haven;Oakwood Library;Pinecrest Library;
+<The Chronicles of Narnia>:4
+Downtown Branch;Oakwood Library;Sunnyside Public Library;Westside Book Nook;
+<The Da Vinci Code>:5
+Greenfield Community Library;Lakeview Library;Pinecrest Library;Riverside Branch;Sunnyside Public Library;
+<The Grapes of Wrath>:1
+Pinecrest Library;
+<The Great Gatsby>:4
+Central Library;Greenfield Community Library;Lakeview Library;Meadowbrook Reading Center;
+<The Hitchhiker's Guide to the Galaxy>:4
+Downtown Branch;Meadowbrook Reading Center;Sunnyside Public Library;Westside Book Nook;
+<The Hobbit>:5
+Central Library;Harbor Heights Library;Hilltop Book Haven;Oakwood Library;Westside Book Nook;
+<The Hunger Games>:5
+Harbor Heights Library;Hilltop Book Haven;Meadowbrook Reading Center;Pinecrest Library;Riverside Branch;
+<The Kite Runner>:4
+Harbor Heights Library;Hilltop Book Haven;Lakeview Library;Westside Book Nook;
+<The Lord of the Rings>:4
+Greenfield Community Library;Lakeview Library;Meadowbrook Reading Center;Riverside Branch;
+<To Kill a Mockingbird>:6
+Central Library;Greenfield Community Library;Lakeview Library;Pinecrest Library;Riverside Branch;Sunnyside Public Library;

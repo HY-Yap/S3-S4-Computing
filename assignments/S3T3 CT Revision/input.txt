@@ -1,0 +1,35 @@
+Central Library 8
+The Great Gatsby, To Kill a Mockingbird, 1984, Pride and Prejudice, The Catcher in the Rye, The Hobbit, Brave New World, The Great Gatsby
+
+Riverside Branch 6
+To Kill a Mockingbird, The Lord of the Rings, Harry Potter and the Sorcerer's Stone, The Hunger Games, Animal Farm, The Da Vinci Code
+
+Oakwood Library 7
+1984, Pride and Prejudice, The Catcher in the Rye, The Hobbit, The Chronicles of Narnia, Fahrenheit 451, The Alchemist
+
+Meadowbrook Reading Center 5
+The Great Gatsby, The Lord of the Rings, Harry Potter and the Sorcerer's Stone, The Hunger Games, The Hitchhiker's Guide to the Galaxy
+
+Sunnyside Public Library 9
+To Kill a Mockingbird, 1984, Brave New World, Animal Farm, The Da Vinci Code, The Chronicles of Narnia, Fahrenheit 451, The Alchemist, The Hitchhiker's Guide to the Galaxy
+
+Hilltop Book Haven 6
+Pride and Prejudice, The Catcher in the Rye, The Hobbit, Harry Potter and the Sorcerer's Stone, The Hunger Games, The Kite Runner
+
+Lakeview Library 7
+The Great Gatsby, To Kill a Mockingbird, 1984, The Lord of the Rings, Brave New World, The Da Vinci Code, The Kite Runner
+
+Downtown Branch 8
+Pride and Prejudice, The Catcher in the Rye, Animal Farm, The Chronicles of Narnia, Fahrenheit 451, The Alchemist, The Hitchhiker's Guide to the Galaxy, Moby-Dick
+
+Harbor Heights Library 6
+The Hobbit, Harry Potter and the Sorcerer's Stone, The Hunger Games, Brave New World, The Kite Runner, Moby-Dick
+
+Greenfield Community Library 10
+The Great Gatsby, To Kill a Mockingbird, 1984, Pride and Prejudice, The Lord of the Rings, Animal Farm, The Da Vinci Code, The Alchemist, Moby-Dick, The Catcher in the Rye
+
+Westside Book Nook 7
+The Hobbit, Brave New World, The Chronicles of Narnia, Fahrenheit 451, The Hitchhiker's Guide to the Galaxy, The Kite Runner, One Hundred Years of Solitude
+
+Pinecrest Library 9
+To Kill a Mockingbird, Pride and Prejudice, The Catcher in the Rye, Harry Potter and the Sorcerer's Stone, The Hunger Games, The Da Vinci Code, Moby-Dick, One Hundred Years of Solitude, The Grapes of Wrath
