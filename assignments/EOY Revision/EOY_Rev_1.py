@@ -38,10 +38,11 @@ class Grocery:
         self._stock += change_in_stock
     
     def calculate_final_price(self):
-        return self._stock * self._price
+        return self._price * 1.07
     
     def __str__(self):
-        pass
+        return "{:<20} |  {:>6.2f} |  {:>6} | {:>6} |  {:>12.2f}".format(
+            self._title, self._cost, self._price, self._stock, self.calculate_final_price())
 
 class ElectricalAppliance(Grocery):
     def __init__(self, title, cost, price, stock, power):
@@ -50,6 +51,73 @@ class ElectricalAppliance(Grocery):
     
     def get_power(self):
         return self._power
+    
+    def calculate_final_price(self):
+        if self._power <= 10:
+            return self._stock * self._price * 0.80 * 1.07
+        else:
+            return super().calculate_final_price()
+
+class Cigarette(Grocery):
+    def __init__(self, title, cost, price, stock, nicotine_content):
+        super().__init__(title, cost, price, stock)
+        self._nicotine_content = nicotine_content
+    
+    def get_nicotine_content(self):
+        return self._nicotine_content
+    
+    def calculate_final_price(self):
+        return self._price * 1.60 * 1.07
+
+class Alcohol(Grocery):
+    def __init__(self, title, cost, price, stock, type):
+        super().__init__(title, cost, price, stock)
+        self._type = type
+    
+    def get_type(self):
+        return self._type
+    
+    def calculate_final_price(self):
+        if self._type == "wine":
+            return self._price * 1.50 * 1.07
+        elif self._type == "beer":
+            return self._price * 1.20 * 1.07
+
+class StoreManager:
+    def __init__(self, curr_item_list):
+        self._curr_item_list = curr_item_list
+    
+    def sell_item(self, sold_item):
+        title, qty_sold = sold_item
+        for item in self._curr_item_list:
+            if item.get_title() == title:
+                item._stock -= qty_sold
+                print("{:<20} | Unit Price | Quantity Sold | Subtotal\n" + \
+                "{:<20} | {:^10} | {:^13} | {:>8}".format(
+                    "Title", title, item.get_price(), qty_sold, qty_sold * item.get_price()))
+    
+    def sell_items(self, sold_item_list):
+        result = "{:<20} | Unit Price | Quantity Sold | Subtotal\n".format("Title")
+        overall_total_value = 0
+        for sold_item in sold_item_list:
+            title, qty_sold = sold_item
+            for item in self._curr_item_list:
+                if item.get_title() == title:
+                    item._stock -= qty_sold
+                    subtotal = qty_sold * item.get_price()
+                    overall_total_value += subtotal
+                    result += "{:<20} | {:^10.2f} | {:^13} | {:>8.2f}\n".format(
+                        title, item.get_price(), qty_sold, subtotal)
+        result += "Overall total value: {:>39}".format(overall_total_value)
+        print(result)
+    
+    def stock_check(self):
+        result = "{:<20} | Unit Cost | Quantity Left\n".format("Title")
+        for item in self._curr_item_list:
+            if item.get_stock() < 5:
+                result += "{:<20} | {:^9.2f} | {:>13}\n".format(
+                    item.get_title(), item.get_cost(), item.get_stock())
+        print(result[:-1])
 
 ####################################################
 # Please do not modify the code below
