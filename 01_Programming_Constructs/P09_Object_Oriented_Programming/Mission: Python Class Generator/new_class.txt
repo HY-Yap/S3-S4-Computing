@@ -1,0 +1,4 @@
+PythonClassName;SuperClassName;ClassAttributes
+Person;;name,age
+Student;Person;class_,subject_list
+Teacher;Person;classes,teaching_subject
