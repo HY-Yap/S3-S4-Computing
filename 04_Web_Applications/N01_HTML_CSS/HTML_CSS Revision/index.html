@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css" />
+        <title>Trip Signup Form</title>
+    </head>
+    <body>
+        <h1>Trip Signup Form</h1>
+        <p>Please enter your particulars below:</p>
+        <form action="response.html">
+            <table>
+                <tr>
+                    <td>First Name:</td>
+                    <td>
+                        <input
+                            type="text"
+                            placeholder="First Name"
+                            name="fname"
+                        />
+                    </td>
+                    <td>Last Name:</td>
+                    <td>
+                        <input
+                            type="text"
+                            placeholder="Last Name"
+                            name="lname"
+                        />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td>
+                        <input
+                            type="email"
+                            placeholder="name@email.com"
+                            name="email"
+                        />
+                    </td>
+                    <td>Contact:</td>
+                    <td>
+                        <input type="text" name="contact" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Class:</td>
+                    <td>
+                        <select name="class">
+                            <option value="3A2">3A2</option>
+                            <option value="3A3" selected>3A3</option>
+                            <option value="3i1">3i1</option>
+                            <option value="3i2">3i2</option>
+                        </select>
+                    </td>
+                    <td>Gender:</td>
+                    <td>
+                        <select name="gender">
+                            <option value="m">Male</option>
+                            <option value="f">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Date of Birth:</td>
+                    <td>
+                        <input type="date" name="dob" value="2009-01-01" />
+                    </td>
+                </tr>
+            </table>
+            <p>Trip Selection:</p>
+            <p>
+                <input type="radio" name="trip" id="sz" />
+                <label for="sz">Shen Zhen 深圳</label>
+                <br />
+                <input type="radio" name="trip" id="xa" />
+                <label for="xa">Xi'An 西安</label>
+                <br />
+                <input type="radio" name="trip" id="wx" />
+                <label for="wx">Wu Xi 无锡</label>
+                <br />
+            </p>
+            <input type="submit" id="submit" />
+        </form>
+    </body>
+</html>

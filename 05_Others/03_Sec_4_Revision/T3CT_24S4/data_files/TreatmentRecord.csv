@@ -1,0 +1,19 @@
+Date,Time,PatientID,Observations,Fever,BloodPressure
+20200701,1523,3,diarrhea,N,Normal
+20200701,1528,7,headache,N,High
+20200702,1600,10,headache,Y,Normal
+20200704,1549,8,diarrhea,N,Normal
+20200705,1653,12,diarrhea,N,High
+20200705,1833,25,stomach pain,Y,Normal
+20200706,1250,14,stomach pain,N,High
+20200710,0856,25,headache,N,Normal
+20200711,1300,19,headache,Y,Normal
+20200719,1318,19,diarrhea,N,Normal
+20200722,1449,24,headache,N,High
+20200722,1723,16,headache,N,Normal
+20200723,1135,23,diarrhea,N,Normal
+20200723,1611,4,headache,Y,Normal
+20200726,0843,17,stomach pain,Y,High
+20200727,1633,24,stomach pain,N,Normal
+20200728,1355,23,diarrhea,Y,Normal
+20200731,0839,15,stomach pain,N,Normal

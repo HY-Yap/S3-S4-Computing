@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border: 2px solid blue;
+}
+
+table input,
+select {
+    width: 95%;
+}
+
+#submit {
+    background-color: blue;
+    color: white;
+    width: 80px;
+}
