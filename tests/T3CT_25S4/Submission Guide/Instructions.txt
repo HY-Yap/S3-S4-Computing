@@ -1,0 +1,15 @@
+1. Save all your files. You yourself is responsible in saving all files correctly.
+
+2. Zip your folder using the Image Guide provided.
+
+3. Click on the shortcut "HCI Exam Submission" or visit the following page in your browser directly:
+
+http://hciapps.hci.edu.sg/computing/ 
+
+4. Enter your Hwa Chong ID: 2xxxxxx.
+
+5. Click on "Choose File", and navigate to the Thumb Drive Folder.
+
+6. Select the .zip file to submit.
+
+7. You should see your name appear in the confirmation page.

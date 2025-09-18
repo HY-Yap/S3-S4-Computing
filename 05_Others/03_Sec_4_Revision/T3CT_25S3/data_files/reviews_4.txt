@@ -1,0 +1,174 @@
+Taco Town
+Cleanliness *****
+Service *****
+Food ****
+
+Sushi Spot
+Cleanliness *****
+Service *****
+Food ***
+
+Pasta Palace
+Cleanliness *****
+Service *****
+Food *****
+
+The Rustic Table
+Cleanliness ***
+Service *****
+Food ****
+
+Harvest Moon Cafe
+Cleanliness ****
+Service ****
+Food *****
+
+Flame & Skillet
+Cleanliness *****
+Service ***
+Food *****
+
+Bamboo Garden Delight
+Cleanliness ****
+Service *****
+Food *****
+
+Sunset Terrace
+Cleanliness *****
+Service ***
+Food *****
+
+Twisted Basil
+Cleanliness ****
+Service *****
+Food *****
+
+The Hungry Owl
+Cleanliness ****
+Service **
+Food *****
+
+Burger Joint
+Cleanliness *****
+Service *****
+Food *****
+
+Pizza Place
+Cleanliness *****
+Service ****
+Food ****
+
+Urban Vine Eatery
+Cleanliness ****
+Service ****
+Food *****
+
+The Marinated Peacock
+Cleanliness ****
+Service *****
+Food ***
+
+Flame & Skillet
+Cleanliness *****
+Service *****
+Food *****
+
+Sushi Spot
+Cleanliness ****
+Service *****
+Food ****
+
+Sunset Terrace
+Cleanliness **
+Service *****
+Food **
+
+Bamboo Garden Delight
+Cleanliness ****
+Service *****
+Food *****
+
+Pizza Place
+Cleanliness ****
+Service *****
+Food *****
+
+Burger Joint
+Cleanliness ****
+Service *****
+Food ****
+
+Twisted Basil
+Cleanliness ***
+Service *****
+Food *****
+
+The Rustic Table
+Cleanliness ****
+Service ****
+Food *****
+
+Taco Town
+Cleanliness **
+Service ***
+Food *****
+
+The Rustic Table
+Cleanliness *****
+Service *****
+Food ***
+
+Pizza Place
+Cleanliness *****
+Service *****
+Food ****
+
+Spice Route Kitchen
+Cleanliness *****
+Service ****
+Food ***
+
+Pasta Palace
+Cleanliness *****
+Service *****
+Food ****
+
+The Marinated Peacock
+Cleanliness *****
+Service ***
+Food ****
+
+The Hungry Owl
+Cleanliness *****
+Service *****
+Food ****
+
+Harvest Moon Cafe
+Cleanliness *****
+Service *****
+Food *****
+
+Flame & Skillet
+Cleanliness ****
+Service ****
+Food *****
+
+Urban Vine Eatery
+Cleanliness ****
+Service ***
+Food *****
+
+Bamboo Garden Delight
+Cleanliness ***
+Service *****
+Food *****
+
+Sunset Terrace
+Cleanliness **
+Service *****
+Food ****
+
+Burger Joint
+Cleanliness *****
+Service ***
+Food ****

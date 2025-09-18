@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Success Page</title>
+</head>
+
+<body>
+    <h1>Message Board</h1>
+    <table border="1px solid black" width="100%">
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Message</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            {% for item in row %}
+            <td>{{ item }}</td>
+            {% endfor %}
+            <td>
+                <a href="{{ url_for('update', rid=row[0]) }}">Edit</a>
+            </td>
+            <td>
+                <a href="{{ url_for('delete', rid=row[0]) }}">Delete</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <p><a href="{{ url_for('form') }}">Post Again!</a></p>
+</body>
+
+</html>

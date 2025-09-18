@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Result Page</title>
+        <style>
+            table {
+                text-align: left;
+            }
+            th {
+                padding: 5px 5px;
+            }
+            td {
+                padding: 16px 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Result Page</h1>
+        <h2>Buyer Information</h2>
+        <table border="1px solid black">
+            <tr>
+                <th>User ID</th>
+                <th>Name</th>
+                <th>Contact</th>
+                <th>Email</th>
+            </tr>
+            <tr>
+                {% for i in range(4) %}
+                <td>{{data[i]}}</td>
+                {% endfor %}
+            </tr>
+        </table>
+        <br />
+        <h2>Property Information</h2>
+        <table border="1px solid black">
+            <tr>
+                <th>Property ID</th>
+                <th>Address</th>
+                <th>Postal</th>
+                <th>Total Area</th>
+                <th>No of Bedrooms</th>
+                <th>No of Toilets</th>
+                <th>Asking Price</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                {% for i in range(4, 12) %}
+                <td>{{data[i]}}</td>
+                {% endfor %}
+            </tr>
+        </table>
+        <br />
+        <p>Sold for ${{soldPrice}} on {{soldDate}}.</p>
+        <p>Record ID: {{recordID}}</p>
+    </body>
+</html>

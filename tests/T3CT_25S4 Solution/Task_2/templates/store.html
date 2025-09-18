@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Store Page</title>
+</head>
+
+<body>
+    <h1>Store Page</h1>
+    <form action="{{url_for('store')}}" method="POST">
+        <p>
+            Store:
+            <select name="store">
+                {% for store in stores %}
+                <option value="{{ store }}">
+                    {{ store }}
+                </option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Submit">
+        </p>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Store Page</h1>
+    <form action="{{ url_for('store') }}" method="post">
+        <p>
+            Store:
+            <select name="store">
+                <option value="Jap Food">Jap Food</option>
+                <option value="Mixed Vege">Mixed Vege</option>
+                <option value="Western Delight">Western Delight</option>
+                <option value="Chicken Rice">Chicken Rice</option>
+                <option value="K Food">K Food</option>
+                <option value="Local Delight">Local Delight</option>
+                <option value="Drink Store">Drink Store</option>
+            </select>
+            <button type="submit">Submit</button>
+        </p>
+    </form>
+</body>
+</html>

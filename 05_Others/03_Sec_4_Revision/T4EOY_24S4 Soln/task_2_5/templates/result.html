@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vote Result</title>
+</head>
+
+<body>
+    <h1>Voting Result Analysis</h1>
+    <p>
+        Voting result analysis for <span>{{ cname }}</span>:
+    </p>
+    <table>
+        <tr>
+            <th>Class</th>
+            <th>Vote Count</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

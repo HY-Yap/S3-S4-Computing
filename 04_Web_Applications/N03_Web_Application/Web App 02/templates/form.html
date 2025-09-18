@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Buy Page</title>
+    </head>
+    <body>
+        <h1>Buy Page</h1>
+        <form action="{{ url_for('form') }}" method="post">
+            <p>Record ID: <input type="text" name="recordID" id="" /></p>
+            <p>Buyer ID: <input type="text" name="buyerID" id="" /></p>
+            <p>Sold Price: <input type="text" name="soldPrice" id="" /></p>
+            <p>Sold Date: <input type="text" name="soldDate" id="" /></p>
+            <button type="submit">Buy</button>
+        </form>
+    </body>
+</html>

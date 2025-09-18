@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Result Page</title>
+</head>
+
+<body>
+    <h1>Result Page</h1>
+    <p>Class: {{ class_ }}</p>
+    <table border="1px solid black">
+        <tr>
+            <th>Favorite Subject</th>
+            <th>Count</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

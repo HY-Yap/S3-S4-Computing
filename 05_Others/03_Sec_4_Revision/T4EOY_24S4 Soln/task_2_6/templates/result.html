@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Vote Result</title>
+</head>
+
+<body>
+    <h1>Voting Result Analysis</h1>
+    <p>
+        Voting result analysis for <span>{{ cname }}</span>:
+    </p>
+    <table>
+        <tr>
+            {% for level in result %}
+            <th>{{ level }}</th>
+            <th>Vote Count</th>
+            {% endfor %}
+        </tr>
+        {% for i in range(level_class_count) %}
+        <tr>
+            {% for level in result %}
+            <td>{{ result[level][i][0] }}</td>
+            <td>{{ result[level][i][1] }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+        <tr>
+            {% for level in total %}
+            <th>Total</th>
+            <th>{{ total[level] }}</th>
+            {% endfor %}
+        </tr>
+    </table>
+</body>
+
+</html>

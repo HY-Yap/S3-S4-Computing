@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Team Page</title>
+</head>
+
+<body>
+    <h1>Team Page</h1>
+    <form action="{{ url_for('team') }}" method="POST">
+        <p>
+            Team No:
+            <input type="text" name="team_no">
+        </p>
+        <p>
+            <input type="submit" value="Submit">
+        </p>
+    </form>
+</body>
+
+</html>

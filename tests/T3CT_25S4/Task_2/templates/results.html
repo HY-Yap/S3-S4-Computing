@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Results Page</h1>
+    <table border="1px solid black">
+        <tr>
+            <th>Favorite Subject</th>
+            <th>Count</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{row[0]}}</td>
+            <td>{{row[1]}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

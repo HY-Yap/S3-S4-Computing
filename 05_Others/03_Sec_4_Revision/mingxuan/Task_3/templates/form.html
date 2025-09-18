@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Search for Students</h1>
+        <form action="{{ url_for('form') }}" method="POST">
+            <p>
+                Class:
+                <select name="class">
+                    <option value="4A1">4A1</option>
+                    <option value="4A2">4A2</option>
+                    <option value="4A3">4A3</option>
+                </select>
+            </p>
+            <p>
+                Gender:
+                <select name="gender">
+                    <option value="M">Male</option>
+                    <option value="F">Female</option>
+                </select>
+            </p>
+            <button type="submit">Search</button>
+        </form>
+    </body>
+</html>

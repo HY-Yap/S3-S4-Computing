@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Form Page</title>
+</head>
+
+<body>
+    <h1>Form Page</h1>
+    <form action="{{ url_for('form') }}" method="POST">
+        <p>
+            Customer ID:
+            <input type="text" name="cust_id">
+        </p>
+        <p>
+            <input type="submit" value="Search">
+        </p>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Us</title>
+        <link rel="stylesheet" href="/static/css/style.css" />
+    </head>
+    <body>
+        <h1>All About Our Class</h1>
+        <p>Hi, {{name}}!</p>
+        <p>We are the class of 2019.</p>
+        <p>
+            We take the subjects Computing, Mathematics and Physics/Chemistry.
+        </p>
+        {# this block outputs a statement depending on age #}
+        {% if age < 18 %}
+        <p>You are a teenager.</p>
+        {% elif 18 <= age <= 50 %}
+        <p>You are an adult.</p>
+        {% else %}
+        <p>You are an adult.</p>
+        {% endif %} {% for letter in name %}
+        <p>Let's print each letter: {{letter}}</p>
+        {%endfor%}
+        <hr />
+        {{name | length}} {{range(1,8) | random}}
+    </body>
+</html>

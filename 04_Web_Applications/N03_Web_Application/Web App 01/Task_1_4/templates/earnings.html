@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Earnings Page</h1>
+        <p>Overall salary earned by each agent in Team {{tid}}:</p>
+        <table border="1px solid black">
+            <tr>
+                <th>Agents</th>
+                <th>Jan</th>
+                <th>Feb</th>
+                <th>Mar</th>
+            </tr>
+            <tr>
+                {% for itm in data %}
+                <td>{{itm}}</td>
+                {% endfor %}
+            </tr>
+        </table>
+    </body>
+</html>

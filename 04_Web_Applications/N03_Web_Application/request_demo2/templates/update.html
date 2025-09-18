@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Update Page</title>
+</head>
+
+<body>
+    <h1>Update Page</h1>
+    <form action="{{ url_for('update', rid=row[0]) }}" method="POST">
+        <p>Username: {{ row[1] }}</p>
+        <p>Email: {{ row[2] }}</p>
+        <p>Message:</p>
+        <p>
+            <textarea name="message" rows="3" cols="50">{{ row[3] }}</textarea>
+        </p>
+        <p>
+            <input type="submit" value="Update">
+        </p>
+    </form>
+</body>
+
+</html>

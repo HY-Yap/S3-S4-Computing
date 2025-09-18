@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Form Page</h1>
+    <form action="{{ url_for('form') }}" method="post">
+        <p>
+            Class:
+            <select name="cls">
+                <option value="3A1">3A1</option>
+                <option value="3A2">3A2</option>
+                <option value="3A3">3A3</option>
+                <option value="4A1">4A1</option>
+                <option value="4A2">4A2</option>
+                <option value="4A3">4A3</option>
+            </select>
+        </p>
+        <button type="submit">Search</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Earning Page</title>
+</head>
+
+<body>
+    <h1>Earning Page</h1>
+    <p>
+        Here are the earning of team: {{ team_no }}
+    </p>
+    <table border="1px solid black">
+        <tr>
+            <th>Agent</th>
+            <th>Jan 2020</th>
+            <th>Feb 2020</th>
+            <th>Mar 2020</th>
+        </tr>
+        {% for row in result %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

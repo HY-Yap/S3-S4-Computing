@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Delete Page</title>
+</head>
+
+<body>
+    <h1>Delete Page</h1>
+    <form action="{{ url_for('delete', rid=row[0]) }}" method="POST">
+        <p>Username: {{ row[1] }}</p>
+        <p>Email: {{ row[2] }}</p>
+        <p>Message:</p>
+        <p>
+            {{ row[3] }}
+        </p>
+        <p>
+            <input type="submit" value="Delete">
+        </p>
+    </form>
+</body>
+
+</html>

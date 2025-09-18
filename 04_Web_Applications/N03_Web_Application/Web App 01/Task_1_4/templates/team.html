@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Team Page</h1>
+        <form action="{{ url_for('team') }}" method="POST">
+            <p>Team No: <input type="text" name="tid" /></p>
+            <button type="submit">Search</button>
+        </form>
+    </body>
+</html>
