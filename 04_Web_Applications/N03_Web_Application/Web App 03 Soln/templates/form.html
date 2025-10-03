@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <title>Booking Page</title>
+</head>
+<body>
+    <h1>Booking Page</h1>
+    <form action="{{ url_for('form') }}" method="POST">
+    <p>Customer ID:</p>
+    <p>
+    <input type="text" name="cust_id" value="customer001">
+    </p>
+    <p>Start Date:</p>
+    <p>
+    <input type="date" name="start_date" value="2025-09-17">
+    </p>
+    <p>No of Days:</p>
+    <p>
+    <input type="number" name="no_of_days" value="2">
+    </p>
+    <table width="60%" border="1px solid black">
+    <tr>
+        <th>RoomTypeID</th>
+        <th>RoomType</th>
+        <th>Price</th>
+        <th>Promotion</th>
+    </tr>
+    {% for row in data %}
+    <tr>
+        <td>
+        <input type="radio" name="room_type_id" id="{{ row[0] }}" value="{{ row[0] }}">
+        <label for="{{ row[0] }}">
+        {{ row[0] }}
+        </label>
+        </td>
+        <td>{{ row[1] }}</td>
+        <td>{{ row[2] }}</td>
+        <td>{{ row[3] }}</td>
+    </tr>
+    {% endfor %}
+    </table>
+    <p><input type="submit" value="Book"></p>
+    </form>
+</body>
+</html>

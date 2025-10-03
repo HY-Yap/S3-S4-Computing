@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>Confirmation Page</title>
+</head>
+<body>
+    <h1>Confirmation Page</h1>
+    <p>Your booking is confirmed:</p>
+    <table width="60%" border="1px solid black">
+    <tr>
+        <th>RoomID</th>
+        <th>CustomerID</th>
+        <th>StartDate</th>
+        <th>NoOfDays</th>
+    </tr>
+    <tr>
+    {% for item in conf_tpl%}
+        <td>{{ item }}</td>
+    {% endfor %}
+    </tr>
+    </table>
+</body>
+</html>
