@@ -1,0 +1,30 @@
+ID,Name,Element,Path,Stats
+1,Arlan,Lightning,Destruction,HP:163;ATK:81;DEF:45;Speed:102;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+2,Asta,Fire,Harmony,HP:139;ATK:69;DEF:63;Speed:106;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+3,Bailu,Lightning,Abundance,HP:179;ATK:76;DEF:66;Speed:98;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+4,Bronya,Wind,Harmony,HP:168;ATK:79;DEF:72;Speed:99;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+5,Clara,Physical,Destruction,HP:168;ATK:100;DEF:66;Speed:90;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+6,Dan Heng,Wind,The Hunt,HP:120;ATK:74;DEF:54;Speed:110;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+7,Gepard,Ice,Preservation,HP:190;ATK:73;DEF:89;Speed:92;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+8,Herta,Ice,Erudition,HP:129;ATK:79;DEF:54;Speed:100;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+9,Himeko,Fire,Erudition,HP:142;ATK:102;DEF:59;Speed:96;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+10,Hook,Fire,Destruction,HP:182;ATK:84;DEF:48;Speed:94;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+11,Jing Yuan,Lightning,Erudition,HP:158;ATK:95;DEF:66;Speed:99;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+12,Kafka,Lightning,Nihility,HP:147;ATK:92;DEF:66;Speed:100;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+13,Luocha,Imaginary,Abundance,HP:174;ATK:95;DEF:59;Speed:101;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+14,March 7th,Ice,Preservation,HP:144;ATK:69;DEF:78;Speed:101;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+15,Natasha,Physical,Abundance,HP:158;ATK:64;DEF:69;Speed:98;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+16,Pela,Ice,Nihility,HP:134;ATK:74;DEF:63;Speed:105;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+17,Trailblazer,Physical,Destruction,HP:163;ATK:84;DEF:62;Speed:100;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+18,Trailblazer,Fire,Preservation,HP:168;ATK:81;DEF:82;Speed:95;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+19,Trailblazer,Physical,Destruction,HP:163;ATK:84;DEF:62;Speed:100;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+20,Trailblazer,Fire,Preservation,HP:168;ATK:81;DEF:82;Speed:95;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+21,Qingque,Quantum,Erudition,HP:139;ATK:88;DEF:60;Speed:98;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+22,Sampo,Wind,Nihility,HP:139;ATK:84;DEF:54;Speed:102;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+23,Seele,Quantum,The Hunt,HP:126;ATK:87;DEF:49;Speed:115;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+24,Serval,Lightning,Erudition,HP:124;ATK:88;DEF:51;Speed:104;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+25,Silver Wolf,Quantum,Nihility,HP:142;ATK:81;DEF:62;Speed:107;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+26,Sushang,Physical,The Hunt,HP:124;ATK:76;DEF:57;Speed:107;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+27,Tingyun,Lightning,Harmony,HP:115;ATK:72;DEF:54;Speed:112;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+28,Welt,Imaginary,Nihility,HP:153;ATK:84;DEF:69;Speed:102;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+29,Yanqing,Ice,The Hunt,HP:121;ATK:92;DEF:56;Speed:109;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0

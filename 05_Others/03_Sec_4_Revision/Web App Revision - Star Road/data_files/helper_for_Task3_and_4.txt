@@ -1,0 +1,24 @@
+This file contains helpful strings that you can simply copy paste to save some time when attempting Task 3 and 4.
+
+All the best!
+
+--------------------
+
+Task 3:
+
+stat_name_list = ['HP','ATK','DEF','Speed','CRIT Rate','CRIT DMG','Break Effect','Effect RES','Outgoing Healing','Energy Regen Rate','HP%','ATK%','DEF%']
+
+sample input/output str for Stats:
+
+HP:1000;ATK:100;DEF:100;Speed:100;CRIT Rate:5;CRIT DMG:50;Break Effect:0;Effect RES:0;Outgoing Healing:0;Energy Regen Rate:0;HP%:0;ATK%:0;DEF%:0
+
+Task 4:
+
+elements:
+'Physical', 'Fire', 'Ice', 'Lightning', 'Wind', 'Quantum', 'Imaginary'
+
+paths:
+'Destruction', 'The Hunt', 'Erudition', 'Harmony', 'Nihility', 'Preservation', 'Abundance'
+
+positions:
+'Head', 'Body', 'Hand', 'Feet', 'Planar Sphere', 'Link Rope'

@@ -1,0 +1,21 @@
+ID,Name,SetEffect
+1,Passerby of Wandering Cloud,"Two Set Effect: Increases Outgoing Healing by 10%. | Four Set Effect: At the start of the battle, immediately regenerates 1 Skill Point."
+2,Musketeer of Wild Wheat,Two Set Effect: ATK increases by 12%. | Four Set Effect: The wearer's SPD increases by 6% and Basic ATK DMG increases by 10%.
+3,Knight of Purity Palace,Two Set Effect: Increases DEF by 15%. | Four Set Effect: Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%.
+4,Hunter of Glacial Forest,"Two Set Effect: Increases Ice DMG by 10%. | Four Set Effect: After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s)."
+5,Champion of Streetwise Boxing,"Two Set Effect: Increases Physical DMG by 10%. | Four Set Effect: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s)."
+6,Guard of Wuthering Snow,"Two Set Effect: Reduces DMG taken by 8%. | Four Set Effect: At the beginning of the turn, if the wearer's HP is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy."
+7,Firesmith of Lava-Forging,"Two Set Effect: Increases Fire DMG by 10%. | Four Set Effect: Increases the wearer's Skill DMG by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack."
+8,Genius of Brilliant Stars,"Two Set Effect: Increases Quantum DMG by 10%. | Four Set Effect: When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+9,Band of Sizzling Thunder,"Two Set Effect: Increases Lightning DMG by 10%. | Four Set Effect: When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s)."
+10,Eagle of Twilight Line,"Two Set Effect: Increases Wind DMG by 10%. | Four Set Effect: After the wearer uses their Ultimate, their action is Advanced Forward by 25%."
+11,Thief of Shooting Meteor,"Two Set Effect: Increases Break Effect by 16%. | Four Set Effect: Increases the wearer's Break Effect by 16%. When the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy."
+12,Wastelander of Banditry Desert,"Two Set Effect: Increases Imaginary DMG by 10%. | Four Set Effect: When attacking debuffed enemies, the wearer's CRIT Rate increases by 10%, and their CRIT DMG increases by 20% against Imprisoned enemies."
+13,Space Sealing Station,"Two Set Effect: Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
+14,Fleet of the Ageless,"Two Set Effect: Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+15,Pan-Galactic Commercial Enterprise,"Two Set Effect: Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+16,Belobog of the Architects,"Two Set Effect: Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF."
+17,Celestial Differentiator,"Two Set Effect: Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+18,Inert Salsotto,"Two Set Effect: Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%."
+19,Talia: Kingdom of Banditry,"Two Set Effect: Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break effect increases by an extra 20%."
+20,Sprightly Vonwacq,"Two Set Effect: Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
