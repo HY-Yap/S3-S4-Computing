@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>School Kills Stats</title>
+</head>
+
+<body>
+    <h1>School Kills Stats</h1>
+    <p>
+        Team Name: {{ team_name }}
+    </p>
+    <table border="1px solid black">
+        <tr>
+            <th>NickName</th>
+            <th>Role</th>
+            <th>Total Kills</th>
+            <th>Total Deaths</th>
+            <th>Total Assists</th>
+            <th>KDA</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            {% for item in row %}
+            <td>{{ item }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

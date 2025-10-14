@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Team Result</title>
+</head>
+
+<body>
+    <h1>Team Result</h1>
+    <p>
+        Team result analysis for {{ team_name }}:
+    </p>
+    <table border="1px solid black">
+        <tr>
+            <th>GameID</th>
+            <th>Team Name</th>
+            <th>Player Name</th>
+            <th>Nickname</th>
+            <th>Kills</th>
+            <th>Deaths</th>
+            <th>Assists</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            {% for item in row %}
+            <td>{{ item }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
